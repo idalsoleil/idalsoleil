@@ -2,7 +2,7 @@
 <h3 align="center">Bachelor of Science in Information Technology (Bulacan State University - Main Campus)</h3>
 
 - ── .✦ I'm currently learning **Java and JavaScript**
-**
+
 - ── .✦ Better check out **LOONA <3**
 
 - ── .✦ Reach me through **idalsxleil@gmail.com**
