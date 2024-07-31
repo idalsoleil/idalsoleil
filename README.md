@@ -1,107 +1,23 @@
-# :books: :musical_note: :bookmark: :clipboard: :rocket: :octocat:
+<h1 align="center">🧑‍💻 Aldrick (idalsoleil)</h1>
+<h3 align="center">Bachelor of Science in Information Technology (Bulacan State University - Main Campus)</h3>
 
-[![Build Status](https://travis-ci.org/peterkokos/awesome-list.svg?branch=master)](https://travis-ci.org/peterkokos/awesome-list)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/peterkokos/awesome-list/issues)
-[![GitHub issues](https://img.shields.io/github/issues/peterkokos/awesome-list.svg)](https://GitHub.com/peterkokos/awesome-list/issues/)
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/peterkokos/awesome-list.svg)](https://GitHub.com/peterkokos/awesome-list/pull/)
-[![GitHub contributors](https://img.shields.io/github/contributors/peterkokos/awesome-list.svg)](https://GitHub.com/peterkokos/awesome-list/graphs/contributors/)
-[![GitHub commit-activity](https://img.shields.io/github/commit-activity/y/peterkokos/awesome-list.svg)](https://GitHub.com/peterkokos/awesome-list/graphs/commit-activity/)
-[![GitHub last-commit](https://img.shields.io/github/last-commit/peterkokos/awesome-list.svg)](https://GitHub.com/peterkokos/awesome-list/commits/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=idalsoleil&label=Profile%20views&color=0e75b6&style=flat" alt="idalsoleil" /> </p>
 
-A collection of awesome lists for software developers.
+- ── .✦ Reach me through **idalsxleil@gmail.com**
 
-## Contents
+- ── .✦ I'm currently learning **Java and JavaScript**
 
-- [Programming](#programming)
-- [Front-end Development](#front-end-development)
-- [Back-end Development](#back-end-development)
-- [Databases](#databases)
-- [DevOps](#devops)
-- [Operating Systems](#operating-systems)
-- [Languages](#languages)
-- [Books](#books)
-- [Miscellaneous](#miscellaneous)
+- ── .✦ Better check out **LOONA <3**
 
-## Programming
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-- [Awesome Python](https://github.com/vinta/awesome-python)
-- [Awesome Go](https://github.com/avelino/awesome-go)
-- [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
-- [Awesome Ruby](https://github.com/markets/awesome-ruby)
-- [Awesome PHP](https://github.com/ziadoz/awesome-php)
-- [Awesome Swift](https://github.com/matteocrippa/awesome-swift)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
-## Front-end Development
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=idalsoleil&show_icons=true&locale=en&layout=compact" alt="idalsoleil" /></p>
 
-- [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
-- [Awesome React](https://github.com/enaqx/awesome-react)
-- [Awesome React Components](https://github.com/brillout/awesome-react-components)
-- [Awesome Angular](https://github.com/gdi2290/awesome-angular)
-- [Awesome Vue.js](https://github.com/vuejs/awesome-vue)
-- [Awesome CSS](https://github.com/sotayamashita/awesome-css)
-- [Awesome Sass](https://github.com/Famolus/awesome-sass)
-- [Awesome CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=idalsoleil&show_icons=true&locale=en" alt="idalsoleil" /></p>
 
-## Back-end Development
-
-- [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs)
-- [Awesome Golang](https://github.com/avelino/awesome-go)
-- [Awesome Docker](https://github.com/veggiemcake/awesome-docker)
-- [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
-- [Awesome Ruby](https://github.com/markets/awesome-ruby)
-- [Awesome PHP](https://github.com/ziadoz/awesome-php)
-
-## Databases
-
-- [Awesome MySQL](https://github.com/shlomi-noach/awesome-mysql)
-- [Awesome PostgreSQL](https://github.com/dhamanias/awesome-postgresql)
-- [Awesome MongoDB](https://github.com/ramnes/awesome-mongodb)
-- [Awesome Redis](https://github.com/JasonnMing/awesome-redis)
-- [Awesome CouchDB](https://github.com/quangvieng/awesome-couchdb)
-- [Awesome SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy)
-
-## DevOps
-
-- [Awesome DevOps](https://github.com/bregman-arie/awesome-devops)
-- [Awesome Docker](https://github.com/veggiemcake/awesome-docker)
-- [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
-- [Awesome Sysadmin](https://github.com/nicolas-van/awesome-sysadmin)
-
-## Operating Systems
-
-- [Awesome Unix](https://github.com/sirredbeard/Awesome-UNIX)
-- [Awesome Linux](https://github.com/aleksandar-todorovic/awesome-linux)
-- [Awesome Mac](https://github.com/jaywcjlove/awesome-mac)
-- [Awesome Windows](https://github.com/Awesome-Windows/Awesome)
-
-## Languages
-
-- [Awesome Haskell](https://github.com/krispo/awesome-haskell)
-- [Awesome Elm](https://github.com/sporto/awesome-elm)
-- [Awesome Clojure](https://github.com/razum2um/awesome-clojure)
-- [Awesome Lua](https://github.com/LewisJEllis/awesome-lua)
-- [Awesome Erlang](https://github.com/drobakowski/awesome-erlang)
-- [Awesome R](https://github.com/qinwf/awesome-R)
-
-## Books
-
-- [Awesome Books](https://github.com/pquerna/awesome-books)
-- [Awesome Free Programming Books](https://github.com/vhf/free-programming-books)
-
-## Miscellaneous
-
-- [Awesome Lists](https://github.com/sindresorhus/awesome)
-- [Awesome GitHub](https://github.com/dictcp/awesome-github)
-- [Awesome Social Media](https://github.com/sdassow/awesome-social-media)
-
-## Contribute
-
-Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/peterkokos/awesome-list/blob/master/CONTRIBUTING.md) first.
-
-[Let's make this list awesome!](https://github.com/peterkokos/awesome-list/issues/new)
-
-## License
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-This work is licensed under a [Creative Commons Zero v1.0 Universal License](https://creativecommons.org/publicdomain/zero/1.0/).
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=idalsoleil&" alt="idalsoleil" /></p>
